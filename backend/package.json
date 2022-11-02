@@ -12,7 +12,7 @@
     "lint:fix": "eslint --fix --ext ts src/"
   },
   "keywords": [],
-  "author": "Herman",
+  "author": "BlackBerry",
   "license": "ISC",
   "dependencies": {
     "@graphql-tools/utils": "^8.1.2",
